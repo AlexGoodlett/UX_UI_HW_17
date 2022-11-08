@@ -1,0 +1,102 @@
+body {
+    background-color: #F4F4F4;
+    margin-left: 160px;
+    margin-right: 160px;
+    font-family: lexe ;
+}
+
+h1 {
+    font-family: 'Lexend', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    
+    display: inline-block;
+}
+
+h2 {
+    font-family: 'Lexend', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    
+}
+    
+
+
+h3 {
+    font-family: 'Lexend', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    
+    display: inline-block;
+
+}
+
+p {
+    font-family: 'Lexend', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+
+}
+
+.jumbotron {
+        background-color: #F4F4F4;
+        background-size: cover;
+        padding-top: 10%;
+        padding-bottom: 10%;
+        display: flex;
+        justify-content: center;
+}
+
+.navbar { 
+    background-color: #F4F4F4 transparent;
+    
+}
+
+
+
+.nav-link {
+
+    background-color: #F4F4F4;
+    font-size: 20px;
+    font-family: 'Lexend', sans-serif;;
+    font-style: bold;
+}
+.navbar-brand { 
+   
+    font-size: 20px;
+    font-family: 'Lexend', sans-serif;;
+    font-style: bold;
+    color: #F4F4F4
+    
+}
+
+.container-fluid {
+    background-color: #F4F4F4;
+    justify-content: center;
+    
+    
+}
+
+fa-linkedin {
+
+    justify-content: center;
+    align-items: center;
+}
+
+fa-brands {
+    text-align: center;
+
+}
+
+
+
+.center {
+    
+    display: inline-block;
+    justify-content: center;
+    width: 100%;
+}
+
+i {
+    padding: 16px;
+}
